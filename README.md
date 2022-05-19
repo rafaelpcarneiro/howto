@@ -21,7 +21,7 @@ First check if ssh is enabled
 ```
 firewall-cmd --get-services |grep -o "ssh"
 ```
-If <em>ssh</em> then everything is fine. In case contrary
+If <em>ssh</em> appears then everything is fine. In case contrary
 do
 ```
 firewall-cmd --add-service ssh --permanent
