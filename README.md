@@ -1,4 +1,4 @@
-# Tips
+# Howtos
 
 ## Accessing another computer with ssh
 
