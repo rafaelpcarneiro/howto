@@ -26,3 +26,5 @@ do
 ```
 firewall-cmd --add-service ssh --permanent
 ```
+
+## Changing a string value on BASH
